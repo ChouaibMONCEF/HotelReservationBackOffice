@@ -1,4 +1,4 @@
-# MamouniaDevB
+#Hotel_Reservation_BackOffice
 Meilleur Hôtel au Monde et Meilleur hôtel en Afrique 2021 - La Mamounia · Palace de luxe Marrakech, Maroc - a besoin d'une solution informatique implique l'informatisation qui consiste à mettre en place un système informatique en créant une base de données pour la gestion de réservation des clients.
 #Solution
 Cette solution fait recours aux matériels informatiques et aux logiciels appropriés qui faciliteront le traitement automatique de données.
